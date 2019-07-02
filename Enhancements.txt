@@ -1,0 +1,13 @@
+Some ideas for enhancment:
+
+ * Instead of drawing the lunar surface character by character, print
+   a message saying "Scanning for landing site" and animate some
+   scanner during the generation.
+
+ * With the surface pre-generated, scroll it up slowly from the bottom
+   while the lunar lander comes down from the top, until the whole
+   lunar surface is at the bottom of the screen.
+
+ * Convert the whole thing to graphics.
+
+ * Make it into a game, with scoring and explosions and black jack.
